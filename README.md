@@ -1,1 +1,1 @@
-# Symposium_v2.0
+Hands On Tutorial Code for the end-to-end implementation of text-to-video generation webapp.

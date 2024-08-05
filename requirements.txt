@@ -1,0 +1,9 @@
+torch
+diffusers
+transformers
+accelerate
+safetensors
+gradio
+peft
+flask
+pyngrok
