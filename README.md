@@ -10,4 +10,5 @@ Prerequisites required for the preparation of the workshop:
 
 4.Setup Huggingface account: https://huggingface.co/
 
+5.Ensure stable internet connection.
 
