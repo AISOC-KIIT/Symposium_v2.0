@@ -2,7 +2,7 @@ Hands On Tutorial Code for the end-to-end implementation of text-to-video genera
 
 Prerequisites required for the preparation of the workshop:
 
-1.Setup up Github account: https://github.com/join
+1.Setup Github account: https://github.com/join
 
 2.Setup Kaggle account: https://www.kaggle.com/
 
