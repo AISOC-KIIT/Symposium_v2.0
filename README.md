@@ -14,6 +14,6 @@ Please note: Verify your phone number in settings to get access in GPU
 
 Please note: Verify your email for safety.
 
-5.Ensure stable internet connection.
+5.Install Visual Studio Code: https://code.visualstudio.com/download
 
-6.Install Visual Studio Code: https://code.visualstudio.com/download
+6.Ensure stable internet connection.
