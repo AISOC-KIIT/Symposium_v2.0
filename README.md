@@ -12,5 +12,8 @@ Please note: Verify your phone number in settings to get access in GPU
 
 4.Setup Huggingface account: https://huggingface.co/
 
+Please note: Verify your email for safety.
+
 5.Ensure stable internet connection.
 
+6.Install Visual Studio Code: https://code.visualstudio.com/download
